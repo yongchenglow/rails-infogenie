@@ -78,5 +78,7 @@ group :test do
 end
 
 gem "ruby-openai"
-
+gem "cloudinary"
 gem "pg_search"
+gem "sidekiq"
+gem "sidekiq-failures", "~> 1.0"
